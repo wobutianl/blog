@@ -1,0 +1,2 @@
+# blog
+for technic record
