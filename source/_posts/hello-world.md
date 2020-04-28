@@ -29,8 +29,16 @@ to simple test progress, just divide test case into two kinds:
 
 #### change every variable into test case for coverage all environment
 
+![avatar](../images/testcase.PNG)
 
+in excel, u can change each of the variable to make a different test case .
+after all of the combination finished, u can get a total coverage test case.
 
 ### corner test case
 
+- edge case
+- error case
 
+list all variable in excel, and expand its edge and error.
+
+![avatar](../images/cornercase.PNG)
